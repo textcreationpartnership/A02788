@@ -35,11 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The epistle exhortatorye of an Englyshe Christyane vnto his derelye beloued co[n]treye of Englande a
+
 #####Body#####
-The epistle exhortatorye of an Englyshe Christyane vnto his derelye beloued co[n]treye of Englande a
+
+1. ☞ The epistle exhortatorye of an Englishe Christiane vnto his derelye beloued contreye of Englande against the pompouse popyshe Bysshoppes therof / as yet the true members of theyr fylthye father the great Antichrist of Rome.
+
+1. ☞ An appendyce Iorned to the foreseyd Episile.
+
 #####Back#####
-The epistle exhortatorye of an Englyshe Christyane vnto his derelye beloued co[n]treye of Englande a
+
+1. A brefe table.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
